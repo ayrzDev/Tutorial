@@ -12,4 +12,4 @@ You need to add the following code into the TutorialTask ​​file.
 >Code Line                                        
 >}
 
-3. You can come to my discord server to report the error.
+**You can come to my discord server to report the error.**
