@@ -9,5 +9,7 @@ Add-on to teach new players the server!
 # Adding Tutorial Extra
 You need to add the following code into the TutorialTask ​​file.
 >if($this->time == 10){
+
 >      Code Line
+
 >      }
