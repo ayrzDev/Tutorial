@@ -79,6 +79,7 @@ class Main extends PluginBase implements Listener{
 		});
 
 		$form->setTitle("Tutorial Menu");
+		$form->setContent("ServerName: Welcome to our server, since you have just joined us, you can start our tutorial to get to know our server.");
 		$form->setButton1("Tutorial Start");
 		$form->setButton2("Tutorial Skip");
 		$form->sendToPlayer($p);
