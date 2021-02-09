@@ -6,4 +6,4 @@ Add-on to teach new players the server!
 /tutorial
 
 
-#Adding Tutorial Extra
+# Adding Tutorial Extra
