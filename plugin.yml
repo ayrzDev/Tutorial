@@ -1,0 +1,6 @@
+name: Tutorial
+main: MysteryDark\Ayrz\Main
+api: 3.15.1
+version: 1.16
+author: Ayrz & Ahmet Mücahit DOĞRU
+description: it allows new players to get information about the server.
