@@ -14,4 +14,4 @@ You need to add the following code into the TutorialTask ​​file.
 
 **You can come to my discord server to report the error.**
 
-[Discord Server Join](https://discord.gg/EYtaf8Rg)
+[Discord Server Join](https://discord.gg/kBdTACc)
