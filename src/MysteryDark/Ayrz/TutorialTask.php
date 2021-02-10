@@ -16,7 +16,7 @@ class TutorialTask extends Task{
 	
 	public $plugin;
 	public $p;
-	public $time = 10;
+	public $time = 11;
 	public $cfg;
 	
 	public function __construct(Main $plugin, Player $p){
