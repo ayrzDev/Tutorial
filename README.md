@@ -1,4 +1,3 @@
-<a href="https://discord.gg/c8H22es"><img src="https://discordapp.com/api/guilds/804468935646642227/embed.png" alt="Discord server"/>
 # Tutorial
 Add-on to teach new players the server!
 
